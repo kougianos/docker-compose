@@ -1,2 +1,2 @@
 # docker-compose
-Repository that contains sample docker-compose files
+Repository that contains sample docker-compose files.
